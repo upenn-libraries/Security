@@ -1,5 +1,7 @@
 # Best Practices: Security & Patron Privacy
 
+https://upenn-libraries.github.io/Security/
+
 Reporting to the BPG, the Security/Patron Privacy Working Group focuses on best practices around security of applications, hardware, and secure, ethical treatment of user data.
 
 This repo is for collecting documentation related to those topics. Please contribute!
